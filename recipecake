@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Homemade Pancakes</title>
+  </head>
+
+  <body>
+    <h1>Homemade Pancakes</h1>
+
+    <p>
+      These fluffy homemade pancakes are quick to make and perfect for breakfast.
+    </p>
+
+    <img 
+      src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" 
+      alt="A stack of homemade pancakes on a plate"
+    >
+
+    <h2>Ingredients</h2>
+
+    <ul>
+      <li>1 cup flour</li>
+      <li>1 egg</li>
+      <li>1 cup milk</li>
+      <li>2 tablespoons sugar</li>
+    </ul>
+
+    <h2>Instructions</h2>
+
+    <ol>
+      <li>Mix the flour and sugar in a bowl.</li>
+      <li>Add the egg and milk, then stir until smooth.</li>
+      <li>Heat a pan over medium heat.</li>
+      <li>Pour batter into the pan and cook until golden brown.</li>
+    </ol>
+  </body>
+</html>
